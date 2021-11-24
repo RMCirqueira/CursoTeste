@@ -1,0 +1,21 @@
+// AAA
+
+Arange
+- Preparar
+- Instanciar variaveis
+
+Act
+- Ação
+- Chamada do método tetado
+
+Assert 
+- Validação de teste
+- Comparar com os comportamentos desejados
+
+// Nomenclatura
+
+ObjetoEmTeste_MetodoComportamentoEmTeste_ComportamentoEsperado
+Ex: Pedido_AdicionarPedidoItem_DeveIncrementarUnidadeSetItemJaExistente
+
+MetodoEmTeste_EstadoEmTeste_ComportamentoEsperado
+Ex: AdicionarPedidoItem_ItemExistenteCarrinho_DeveIncrementarUnidadeDoItem

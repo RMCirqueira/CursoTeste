@@ -1,0 +1,14 @@
+MSTest
+- OpenSource da Microsoft
+- https://github.com/microsoft/testfx
+
+NUnit
+- É uma portabilidade do JUnit do Java 
+- https://nunit.org/ 
+
+XUnit
+- OpenSource
+- https://xunit.net/
+
+Comparação entre os Frameworks
+- https://xunit.net/docs/comparisons
