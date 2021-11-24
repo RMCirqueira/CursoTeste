@@ -1,0 +1,3 @@
+Mock
+- Simulador de Objetos
+- Objetos falsos que simulam objetos reais
