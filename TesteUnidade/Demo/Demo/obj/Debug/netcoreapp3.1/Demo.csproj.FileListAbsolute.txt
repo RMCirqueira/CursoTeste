@@ -1,0 +1,9 @@
+C:\Projetos\CursoTeste\TesteUnidade\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Projetos\CursoTeste\TesteUnidade\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Projetos\CursoTeste\TesteUnidade\Demo\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Projetos\CursoTeste\TesteUnidade\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.AssemblyReference.cache
+C:\Projetos\CursoTeste\TesteUnidade\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Projetos\CursoTeste\TesteUnidade\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Projetos\CursoTeste\TesteUnidade\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Projetos\CursoTeste\TesteUnidade\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Projetos\CursoTeste\TesteUnidade\Demo\Demo\obj\Debug\netcoreapp3.1\Demo.pdb

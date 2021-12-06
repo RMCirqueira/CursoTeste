@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "98GRoxV6eR8f7ZWAMXMX5s6gVU41D91XRtYgXJYMQYRxn65fjkcIJGfHZ0hMXMBWCd29xjhT6yWhGmIzDJyq/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\CursoTeste\\TesteUnidade\\Demo\\Features\\Features.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodrigo.cirqueira\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
+    "C:\\Users\\rodrigo.cirqueira\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
