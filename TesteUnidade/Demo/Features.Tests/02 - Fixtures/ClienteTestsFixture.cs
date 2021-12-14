@@ -38,6 +38,30 @@ namespace Features.Tests._02___Fixtures
             return cliente;
         }
 
+        public IEnumerable<Cliente> GerarClientesVariados()
+        {
+            var clientes = new List<Cliente>();
+            clientes.Add(
+                new Cliente(
+                Guid.NewGuid(),
+                "",
+                "",
+                DateTime.Now,
+                "edu2edu.com",
+                true,
+                DateTime.Now));
+            clientes.Add(
+                new Cliente(
+                Guid.NewGuid(),
+                "",
+                "",
+                DateTime.Now,
+                "edu2edu.com",
+                false,
+                DateTime.Now));
+            return clientes;
+        }
+
         public void Dispose()
         {
         }
