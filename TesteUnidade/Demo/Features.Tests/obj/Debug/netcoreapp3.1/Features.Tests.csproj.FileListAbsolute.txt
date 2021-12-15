@@ -102,3 +102,7 @@ C:\Projetos\CursoTeste\TesteUnidade\Demo\Features.Tests\bin\Debug\netcoreapp3.1\
 C:\Projetos\CursoTeste\TesteUnidade\Demo\Features.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Projetos\CursoTeste\TesteUnidade\Demo\Features.Tests\bin\Debug\netcoreapp3.1\Moq.dll
 C:\Projetos\CursoTeste\TesteUnidade\Demo\Features.Tests\bin\Debug\netcoreapp3.1\Moq.AutoMock.dll
+C:\Projetos\CursoTeste\TesteUnidade\Demo\Features.Tests\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+C:\Projetos\CursoTeste\TesteUnidade\Demo\Features.Tests\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projetos\CursoTeste\TesteUnidade\Demo\Features.Tests\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\CursoTeste\TesteUnidade\Demo\Features.Tests\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
